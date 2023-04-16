@@ -2,10 +2,10 @@
 
 # 定义 UUID 及伪装路径、哪吒面板参数，请自行修改. (注意:伪装路径以 / 符号开始,为避免不必要的麻烦,请不要使用特殊符号.)
 UUID='9dd43cf8-e8f9-4fc1-8292-e515dcf20871'
-VMESS_WSPATH='/vmess'
-VLESS_WSPATH='/vless'
-TROJAN_WSPATH='/trojan'
-SS_WSPATH='/shadowsocks'
+VMEeSS_WSPATH='/vmess'
+VLEeSS_WSPATH='/vless'
+TROoJAN_WSPATH='/trojan'
+SSs_WSPATH='/shadowsocks'
 NEZHA_SERVER=''
 NEZHA_PORT=''
 NEZHA_KEY=''
